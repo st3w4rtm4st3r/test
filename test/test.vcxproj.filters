@@ -36,4 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Test.yml">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

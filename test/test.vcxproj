@@ -150,6 +150,9 @@
     <ClInclude Include="..\..\2021-5oslegyenpls\table.h" />
     <ClInclude Include="..\..\2021-5oslegyenpls\utils.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Test.yml" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
