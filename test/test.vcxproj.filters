@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\.github">
+      <UniqueIdentifier>{99d777b7-f5c1-4366-8163-ead0f8101d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\.github\workfolws">
+      <UniqueIdentifier>{dbe0c72f-7ed6-4878-957b-01bbb91ecb54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -38,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Test.yml">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\.github\workfolws</Filter>
     </Text>
   </ItemGroup>
 </Project>
